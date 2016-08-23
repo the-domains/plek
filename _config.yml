@@ -1,0 +1,14 @@
+layout_spectrum: 0.635416122386232
+typography_spectrum: 0.588522668229416
+color:
+  brandStrength: 0.12254234123975039
+  lightness: 0.3431343038100749
+  saturation: 0.5664606015197933
+  rhythmicContrast: 0.22443007724359632
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Plek
